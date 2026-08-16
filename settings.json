@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thegioimo.aternos.me",
+    "ip": "thegioimo.aternos.me:60844",
     "port": 60844,
     "version": "26.2",
     "try-creative": false
